@@ -46,11 +46,9 @@ public class MainActivity extends AppCompatActivity {
 
                 //Toast.makeText(MainActivity.this, "Button Clicked", Toast.LENGTH_SHORT).show();
                 txt2.setText("rouerflkndlmskjm");
-                SystemClock.sleep(1050);
-                txt2.setText("aaaaaaaa");
-                SystemClock.sleep(1050);
 
-               // procesador();
+
+                procesador();
 
             }
 
